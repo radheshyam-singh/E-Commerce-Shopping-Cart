@@ -1,0 +1,14 @@
+com\ecommerce\dao\ProductDAO.class
+com\ecommerce\servlets\RegisterServlet.class
+com\ecommerce\servlets\AdminServlet.class
+com\ecommerce\servlets\LoginServlet.class
+com\ecommerce\dao\CartDAO.class
+com\ecommerce\utils\DBConnection.class
+com\ecommerce\ecommercecart\JakartaRestConfiguration.class
+com\ecommerce\model\User.class
+com\ecommerce\servlets\AddProductServlet.class
+com\ecommerce\servlets\AddToCartServlet.class
+com\ecommerce\ecommercecart\resources\JakartaEE10Resource.class
+com\ecommerce\model\Product.class
+com\ecommerce\dao\UserDAO.class
+com\ecommerce\model\CartItem.class

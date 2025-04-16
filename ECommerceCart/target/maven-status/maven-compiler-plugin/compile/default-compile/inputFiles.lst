@@ -1,0 +1,14 @@
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\dao\CartDAO.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\dao\ProductDAO.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\dao\UserDAO.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\ecommercecart\JakartaRestConfiguration.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\ecommercecart\resources\JakartaEE10Resource.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\model\CartItem.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\model\Product.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\model\User.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\servlets\AddProductServlet.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\servlets\AddToCartServlet.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\servlets\AdminServlet.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\servlets\LoginServlet.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\servlets\RegisterServlet.java
+C:\Program Files\Apache Software Foundation\Tomcat 10.1\ECommerceCart\src\main\java\com\ecommerce\utils\DBConnection.java
